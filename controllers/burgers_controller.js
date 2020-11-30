@@ -33,10 +33,7 @@ router.put("/burgers/:id", (req, res) => {
       devoured: true,
     },
     condition,
-    (result) => {
-      if (result.changedRows === 0) {
-        return res.status(404).end();
-      }
+    () => {
       res.redirect("/");
     }
   );
