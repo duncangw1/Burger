@@ -10,12 +10,15 @@ body {
 #pageHeader {
   color: #cc6600;
   font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 60px;
 }
 
 .burgerList {
   border: 2px solid #cc6600;
   border-radius: 10px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .updateBtn,
@@ -40,7 +43,38 @@ body {
   line-height: 3.3rem;
 }
 
+#enterNewBurger {
+  border: 2px solid #cc6600;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+}
+
 #submitNewBurger {
   background-color: #c13100;
   color: #fffbd0;
+  border: 2px solid #c13100;
+  text-shadow: 3px 3px 5px #ff9900;
+  margin-top: 10px;
+}
+
+#insText {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+}
+
+/* Button hover effects */
+#devourBtn:hover {
+  background-color: #c13100;
+  color: #fffbd0;
+  border: 2px solid #c13100;
+  text-shadow: 2px 2px 5px #ff9900;
+}
+
+#submitNewBurger:hover {
+  background-color: #ff9900;
+  color: #fffbd0;
+  border: 2px solid #c13100;
+  text-shadow: 3px 3px 5px #c13100;
 }
