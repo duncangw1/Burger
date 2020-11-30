@@ -1,0 +1,46 @@
+body {
+  background-color: #fffbd0;
+}
+
+#burgerPic {
+  height: 200px;
+  width: 200px;
+}
+
+#pageHeader {
+  color: #cc6600;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.burgerList {
+  border: 2px solid #cc6600;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.updateBtn,
+.devoured {
+  border-bottom: 2px solid #cc6600;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#devourBtn {
+  background-color: #ff9900;
+  color: #fffbd0;
+  border: 2px solid #c13100;
+  text-shadow: 3px 3px 5px #c13100;
+}
+
+#devourPic {
+  height: 200px;
+  width: 125px;
+}
+
+.devoured {
+  line-height: 3.3rem;
+}
+
+#submitNewBurger {
+  background-color: #c13100;
+  color: #fffbd0;
+}
