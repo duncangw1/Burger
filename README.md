@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of the Eat-Da-Burger application is to provide a simple burger logger that users can use to track all the burgers they have **devoured!** The goal of this application is to get familiarized with Express-Handlebars and a homemade ORM (Object Relational Mapper), and to practice successfully deploying an application on Heroku using JawsDB. The technologies used to make this app possible are CSS, JavaScript, MySQL, Node.js, Express, Handlebars, and JawsDB. Please view the deployed application [here](https://eat-da-burger-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
+The purpose of the Eat-Da-Burger application is to provide a simple burger logger that users can utilize to track all of the burgers they have **devoured!** The goal of this application is to get familiarized with Express-Handlebars and a homemade ORM (Object Relational Mapper), and to practice successfully deploying an application on Heroku using JawsDB. The technologies used to make this app possible are CSS, JavaScript, MySQL, Node.js, Express, Handlebars, and JawsDB. Please view the deployed application [here](https://eat-da-burger-33.herokuapp.com/) or navigate to the [Installation](#installation) section below for instructions on how to run the application locally.
 
 ## Table of Contents
 
