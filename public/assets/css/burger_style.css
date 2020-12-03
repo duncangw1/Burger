@@ -9,7 +9,7 @@ body {
 
 #pageHeader {
   color: #cc6600;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
   font-size: 60px;
 }
 
@@ -24,7 +24,7 @@ body {
 .updateBtn,
 .devoured {
   border-bottom: 2px solid #cc6600;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
 }
 
 #devourBtn {
@@ -47,7 +47,7 @@ body {
   border: 2px solid #cc6600;
   border-radius: 10px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
   text-align: center;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 #insText {
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
   font-size: 14px;
 }
 
